@@ -22,7 +22,7 @@ function Home() {
   return (
     <>
       <header>
-        <NavBar />
+        
       </header>
       <main>
         <h1>Home!</h1>
