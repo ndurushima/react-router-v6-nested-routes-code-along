@@ -4,7 +4,7 @@ function Login() {
   return (
     <>
       <header>
-        <NavBar />
+        
       </header>
       <main>
         <h1>Login</h1>
